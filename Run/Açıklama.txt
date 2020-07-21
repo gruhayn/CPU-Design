@@ -1,0 +1,9 @@
+Programın çalıştırılma adımları:
+1) Code klasörü içindeki txt dosyalarından her hangi birini(örnek kod dosyalarıdır.) kullanarak ve ya kendiniz kod yazarak compiler.py doyası ile birlikte çalıştırınız.
+2) Programı çalıştırdıktan sonra çıktı olarak ram.v dosyası yaratılacaktır.
+3) ram.v dosyasını CPU klasörü içine atınız.
+4) Modelsim programını başlatıp source dosyalarını ekleyiniz(.v uzantılı dosyalar).
+5) Modelsim programı içerisinde header dosyaları ekleyiniz.
+6) Simulasyonu başlatıp sonuçlara objects penceresinden bakınız.
+
+Adımların DETAYLI şekli raporda resimlerle beraber anlatılmıştır.

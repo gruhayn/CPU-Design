@@ -1,0 +1,2 @@
+Simulasyon dosyalarının çalıştırılması için Modelsim-Altera programı gereklidir.
+Python dosyasının çalıştırılması için python yüklü olmalıdır.

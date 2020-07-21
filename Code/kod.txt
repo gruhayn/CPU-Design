@@ -1,0 +1,4 @@
+DFN v_dizi 2 -9 1 3
+DFN v_boyut 4
+
+halt
